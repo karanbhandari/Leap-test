@@ -1,0 +1,17 @@
+{
+  "name": "leap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Karan <karan7752@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
